@@ -1,12 +1,12 @@
  body {
   padding-top: 5em;
   text-align: center;
-  font-family: "Space Mono", monospace;
-  background: white;
+  font-family: "Time New Roman", monospace;
+  background: #0E0900;
   background-size: cover;
 }
 h1 {
-  color: #00bf9a;
+  color: #2486AA;
   margin: 5% 0 0 0;
   font-size: 2.5em;
 }
@@ -15,7 +15,7 @@ h1 {
   font-weight: bold;
 }
 .link {
-  padding-bottom: 0.25em;
+  padding-bottom: 0.5em;
 }
 a:link {
   color: #616161;
