@@ -18,18 +18,18 @@ h1 {
   padding-bottom: 0.8em;
 }
 a:link {
-  color: #FD2E21;
+  color: #c17f28;
   text-decoration: none;
 }
 a:visited {
-  color: #FD2E21;
+  color: #c17f28;
   text-decoration: none;
 }
 a:hover {
-  color: #FC2180;
+  color: #c13228;
 }
 a:active {
-  color: #FC2180;
+  color: #c13228;
 }
 .fade-in {
   opacity: 1;
