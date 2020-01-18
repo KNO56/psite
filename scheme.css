@@ -2,11 +2,11 @@
   padding-top: 8em;
   text-align: center;
   font-family: "Time New Roman", monospace;
-  background: #0E0900;
+  background: #192340;
   background-size: cover;
 }
 h1 {
-  color: #2486AA;
+  color: #55AEE6;
   margin: 5% 0 0 0;
   font-size: 2.5em;
 }
@@ -15,7 +15,7 @@ h1 {
   font-weight: bold;
 }
 .link {
-  padding-bottom: 0.5em;
+  padding-bottom: 1.5em;
 }
 a:link {
   color: #616161;
