@@ -2,7 +2,7 @@
   padding-top: 8em;
   text-align: center;
   font-family: "Time New Roman";
-  background: #2b2a2a;
+  background: #282828;
   background-size: cover;
 }
 h1 {
@@ -18,11 +18,11 @@ h1 {
   padding-bottom: 0.8em;
 }
 a:link {
-  color: #616161;
+  color: #D6622F;
   text-decoration: none;
 }
 a:visited {
-  color: #616161;
+  color: #D6622F;
   text-decoration: none;
 }
 a:hover {
