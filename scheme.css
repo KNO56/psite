@@ -1,5 +1,5 @@
  body {
-  padding-top: 5em;
+  padding-top: 8em;
   text-align: center;
   font-family: "Time New Roman", monospace;
   background: #0E0900;
@@ -26,10 +26,10 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: black;
+  color: #696969;
 }
 a:active {
-  color: black;
+  color: #696969;
 }
 .fade-in {
   opacity: 1;
